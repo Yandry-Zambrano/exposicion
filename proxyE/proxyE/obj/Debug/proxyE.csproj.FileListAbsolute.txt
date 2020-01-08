@@ -1,0 +1,6 @@
+C:\Users\yandr\source\repos\proxyE\proxyE\bin\Debug\proxyE.exe.config
+C:\Users\yandr\source\repos\proxyE\proxyE\bin\Debug\proxyE.exe
+C:\Users\yandr\source\repos\proxyE\proxyE\bin\Debug\proxyE.pdb
+C:\Users\yandr\source\repos\proxyE\proxyE\obj\Debug\proxyE.csprojAssemblyReference.cache
+C:\Users\yandr\source\repos\proxyE\proxyE\obj\Debug\proxyE.exe
+C:\Users\yandr\source\repos\proxyE\proxyE\obj\Debug\proxyE.pdb
